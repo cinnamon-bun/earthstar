@@ -56,7 +56,7 @@
     "@types/node": "^14.17.1",
     "@types/tap": "^14.10.3",
     "@types/tape": "^4.13.0",
-    "browser-run": "^9.0.0",
+    "browser-run": "^10.1.0",
     "browserify": "^17.0.0",
     "depchart": "^1.2.0",
     "karma": "^6.3.2",

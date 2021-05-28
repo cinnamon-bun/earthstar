@@ -79,7 +79,7 @@
     "chloride": "^2.3.0",
     "concurrency-friends": "^1.0.1",
     "fast-equals": "^2.0.3",
-    "isomorphic-fetch": "^2.2.1",
+    "isomorphic-fetch": "^3.0.0",
     "lodash.debounce": "^4.0.8",
     "rfc4648": "^1.5.0",
     "tslib": "^2.2.0"

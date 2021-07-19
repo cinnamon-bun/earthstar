@@ -53,7 +53,7 @@
   "devDependencies": {
     "@types/bencode": "^2.0.0",
     "@types/lodash.debounce": "^4.0.6",
-    "@types/node": "^14.17.1",
+    "@types/node": "^16.3.3",
     "@types/tap": "^14.10.3",
     "@types/tape": "^4.13.0",
     "browser-run": "^9.0.0",
